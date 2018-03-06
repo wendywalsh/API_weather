@@ -5,7 +5,7 @@
 
 #### Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Obtain openweathermap api key by  creating an account. See jupyter notebook **walsh_weather.ipynb**.
 
 Prerequisites
 - Requires API_key from openweathermap
