@@ -12,7 +12,7 @@
 
 #### Results
 
-    ![Alt text](temperature.png?raw=true "Title")
+    ![Alt text](http://localhost:8889/view/my_repository/API_weather/temperature.png?raw=true "Temperature")
     Temperature
  
     ![Alt text](cloudiness.png?raw=true "Title")
