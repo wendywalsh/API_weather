@@ -7,21 +7,21 @@
 -  Understand API documentation and use API calls to gathered required data from openweathermap.
 -Data cleaning and manipulation using pandas
 
-- Python Libraries used :
+- Dependencies :
     * numpy, pandas, matplotlib, requests, json, random
 
 #### Results
 
-    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/temperature.png)
+    ![alt text](https://github.com/wendywalsh/API_weather/blob/master/temperature.png)
     Temperature
  
-    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/cloudiness.png)
+    ![alt text](https://github.com/wendywalsh/API_weather/blob/master/cloudiness.png)
     Cloudiness
     
-    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/humidity.png)
+    ![alt text](https://github.com/wendywalsh/API_weather/blob/master/humidity.png)
     Humidity
     
-    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/wind_speed.png)
+    ![alt text](https://github.com/wendywalsh/API_weather/blob/master/wind_speed.png)
     Wind Speed
     
 
