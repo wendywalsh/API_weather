@@ -12,16 +12,16 @@
 
 #### Results
 
-    ![Alt text](http://localhost:8889/view/my_repository/API_weather/temperature.png?raw=true "Temperature")
+    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/temperature.png)
     Temperature
  
-    ![Alt text](http://localhost:8889/view/my_repository/API_weather/cloudiness.png?raw=true "Title")
+    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/cloudiness.png)
     Cloudiness
     
-    ![Alt text](humidity.png?raw=true "Title")
+    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/humidity.png)
     Humidity
     
-    ![Alt text](wind_speed.png?raw=true "Title")
+    ![Alt text](https://github.com/wendywalsh/API_weather/blob/master/wind_speed.png)
     Wind Speed
     
 
